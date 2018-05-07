@@ -1,0 +1,22 @@
+<catalog>
+   <book id="bk101">
+      <author>Herman Melville</author>
+      <title>Moby-Dick</title>
+      <description genre='Psychological novel'>
+      The mental anguish and moral dilemmas of Raskolnikov, an impoverished
+      ex-student in Saint Petersburg who formulates a plan to kill an
+      unscrupulous pawnbroker for her money.
+      </description>
+   </book>
+   <book id="bk102">
+      <author>Miguel de Cervantes</author>
+      <title>Don Quixote</title>
+   </book>
+   <book id="bk103">
+      <author>J. R. R. Tolkien</author>
+      <title>Winnie-the-Pooh</title>
+      <description genre="Children's literature">
+      The adventures of a teddy bear called Winnie-the-Pooh and his friends.
+      </description>
+   </book>
+</catalog>
